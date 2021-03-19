@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.garcia</groupId>
-	<artifactId>sbapp</artifactId>
+	<artifactId>premierleagueapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>sbapp</name>
+	<name>premierleagueapp</name>
 	<description>Random Project with Spring Boot</description>
 	<properties>
 		<java.version>1.8</java.version>
